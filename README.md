@@ -1,2 +1,3 @@
-# software-engineering-projects
- TripleTen's Software Engineering Projects
+# Software Engineering Projects
+
+TripleTen's Software Engineering Projects
